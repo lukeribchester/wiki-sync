@@ -15,5 +15,5 @@
 
 The repository should be the single source of truth for engineering documentation. Markdown files 
 should be prioritised, however for increased visibility and ease of access (i.e. quick linking) 
-it is probably worth implementing this synchronisation workflow, with the workflow only being 
+it is possibly worth implementing this synchronisation workflow, with the workflow only being 
 triggered on pull requests which include the `documentation` label.
